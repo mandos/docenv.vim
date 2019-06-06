@@ -1,0 +1,21 @@
+*docenv.txt* running and stoping utility docker container
+
+==============================================================================
+CONTENTS                                                              *docenv*
+
+    1. Introduction ..............................|docenv-introduction|
+    2. Commands ..................................... |docenv-commands|
+    3. Configuration ........................... |docenv-configuration|
+
+==============================================================================
+1. Introduction                                          *docenv-introduction*
+
+==============================================================================
+2. Commands                                                  *docenv-commands*
+
+                                                              *:DocenvRefresh*
+:DocenvRefresh      Recreate all shims and stops all running container.
+
+==============================================================================
+3. Configuration                                             *docenv-commands*
+

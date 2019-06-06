@@ -1,0 +1,6 @@
+:DocenvRefresh	docenv.txt	/*:DocenvRefresh*
+docenv	docenv.txt	/*docenv*
+docenv-commands	docenv.txt	/*docenv-commands*
+docenv-commands	docenv.txt	/*docenv-commands*
+docenv-introduction	docenv.txt	/*docenv-introduction*
+docenv.txt	docenv.txt	/*docenv.txt*
